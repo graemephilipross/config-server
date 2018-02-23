@@ -36,5 +36,5 @@ export default {
 
 <style>
   @import url('https://fonts.googleapis.com/icon?family=Material+Icons');
-  @import url('https://code.getmdl.io/1.2.1/material.blue-red.min.css');
+  @import url('https://code.getmdl.io/1.3.0/material.blue-pink.min.css');
 </style>
